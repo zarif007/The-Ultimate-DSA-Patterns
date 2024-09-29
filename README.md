@@ -80,3 +80,90 @@
 
 ## Insert Only the Required Elements to the Window
 - [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/description/)
+
+
+## Binary Search  
+When the answer is in a big range (can be plotted to a monotonically increasing/decreasing graph), apply binary search on the answer.
+
+### Apply on ans (find minimised max / maximised min)
+- [Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/description/)
+- [Maximum Number of Alloys](https://leetcode.com/problems/maximum-number-of-alloys/description/)
+- [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/)
+
+### On Matrix
+- [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)
+- [Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/description/)
+
+### All Combination Checking
+- [Find Minimum Time to Finish All Jobs](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/description/)
+
+### Total Log(n) => When the Array is Already Sorted
+- [H-Index II](https://leetcode.com/problems/h-index-ii/description/)
+
+### Number Theory
+- [Minimize the Maximum of Two Arrays](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/description/)
+
+### Next Possible Target in Right Side
+- [Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/description/)
+
+
+## Prefix Optimization
+
+### Prefix Sum
+- [Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/)
+- [Minimum Operations to Make All Array Elements Equal](https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/description/)
+
+### Prefix Max
+- [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/description/)
+- [Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/)
+
+
+## Closest Sum to K in Matrix
+- [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)
+
+
+## Searching
+
+### In 2D Vector (either start from x = n -1, y = 0 or x = 0, y = m - 1)
+- [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)
+
+### Search in Rotated Sorted Array
+- [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+- [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)
+
+### Peak Element
+- [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)
+- [Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)
+
+### Find a Single Element in log(n)
+- [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)
+
+
+## Find the Kth Smallest
+- [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/)
+- [Kth Smallest Product of Two Sorted Arrays](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/description/)
+
+
+## Number of Elements in a Range
+
+### Subsequence
+- [Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/description/)
+
+### Pair
+- [Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/)
+
+
+## Finding Increasing Subsequence
+- [Sum of Floored Pairs](https://leetcode.com/problems/sum-of-floored-pairs/)
+
+
+## For 2 Things to Keep Tracking
+- [Closest Room](https://leetcode.com/problems/closest-room/description/)
+
+
+## Divide and Conquer
+- [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
+
+
+## Keep Sorted While Traversing
+- [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/)
